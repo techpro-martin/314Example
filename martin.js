@@ -1,0 +1,1 @@
+const feature = "This is a new feature in martin.js";
